@@ -1,0 +1,4 @@
+account_a_id = "REPLACE_WITH_ACCOUNT_A_ID"
+account_b_id = "REPLACE_WITH_ACCOUNT_B_ID"
+region       = "us-east-1"
+environment  = "dev"
